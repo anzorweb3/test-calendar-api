@@ -34,3 +34,11 @@ $ npm run test
 # test coverage
 $ npm run test:cov
 ```
+
+## Пример dotenv файла
+
+DB_HOST=localhost
+DB_PORT=5432
+DB_USERNAME=test  
+DB_PASSWORD=test
+DB_DATABASE=test_db
